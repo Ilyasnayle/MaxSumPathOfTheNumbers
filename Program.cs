@@ -133,14 +133,14 @@ namespace MaximumSumOfTheNumbers
             }
     }
     
-    
+       
     
     /*
     Check for prime numbers
     */
     private static  bool IsItPrime(this int num)
     {
-       
+        
         if((num &1 )==0)
         {
             if(num == 2)

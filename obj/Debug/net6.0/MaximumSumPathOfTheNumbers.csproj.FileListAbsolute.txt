@@ -1,0 +1,15 @@
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/bin/Debug/net6.0/MaximumSumPathOfTheNumbers
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/bin/Debug/net6.0/MaximumSumPathOfTheNumbers.deps.json
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/bin/Debug/net6.0/MaximumSumPathOfTheNumbers.runtimeconfig.json
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/bin/Debug/net6.0/MaximumSumPathOfTheNumbers.dll
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/bin/Debug/net6.0/MaximumSumPathOfTheNumbers.pdb
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.csproj.AssemblyReference.cache
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.AssemblyInfoInputs.cache
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.AssemblyInfo.cs
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.csproj.CoreCompileInputs.cache
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.dll
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/refint/MaximumSumPathOfTheNumbers.dll
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.pdb
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/MaximumSumPathOfTheNumbers.genruntimeconfig.cache
+/home/coder_ilyas/Desktop/MaximumSumPathOfTheNumbers/MaximumSumPathOfTheNumbers/obj/Debug/net6.0/ref/MaximumSumPathOfTheNumbers.dll

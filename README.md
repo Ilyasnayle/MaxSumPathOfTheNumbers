@@ -1,6 +1,6 @@
 # MaxSumPathOfTheNumbers
 
-**My Approach****:** While solving this problem I followed the following steps: 
+**My Approach:** While solving this problem I followed the following steps: 
 
 1: Took the input, manually or read from file and created a 2-D array.
 

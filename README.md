@@ -45,7 +45,7 @@ As you can see this has several paths that fits the rule of NOT PRIME NUMBERS; 1
 You can implement by using any programming language except Mathlab. Please paste the link to your code.
 Enter your answer
 
-****4.** **
+**4.**
 According to assignment in 3 that you implemented what is the maximum sum of below input?
 
 It means please take this input (as file or constants directly inside the code) for your implementation and solve by using it.

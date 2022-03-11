@@ -2,7 +2,9 @@
 
 /*
  * Author: Ilyas Nayle
- * Email: ilyasnayle5@gmail.com // ilyas.nayle@tedu.edu.tr 
+ * Email: ilyasnayle5@gmail.com // ilyas.nayle@tedu.edu.tr
+ * https://www.linkedin.com/in/ilyasnayle/
+
  */
 
 namespace MaximumSumOfTheNumbers
